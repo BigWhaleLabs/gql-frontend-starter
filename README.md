@@ -1,4 +1,4 @@
-# Frontend code template in `preact`
+# Frontend code template in `preact` with GraphQL
 
 This template is to be used for frontend applications.
 

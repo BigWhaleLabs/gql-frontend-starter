@@ -1,5 +1,5 @@
 {
-  "name": "frontend-starter",
+  "name": "gql-frontend-starter",
   "version": "1.0.0",
   "license": "MIT",
   "type": "module",
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.8",
+    "gql.tada": "^1.8.10",
     "jotai": "^2.12.1",
     "preact": "^10.26.2"
   },
